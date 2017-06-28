@@ -34,7 +34,7 @@ $lang_login_incorrect = "Your Password is Incorrect!";
 $lang_login_password = "Password";
 $lang_login_button = "Login";
 $lang_nav_logout = "Logout";
-$lang_login_otp = "OTP Password";
+$lang_login_otp = "OTP Password";   // ??? OTP
 $lang_login_welcome = "Hi!";
 $lang_login_name = "Pulse User";
 
